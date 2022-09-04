@@ -1,0 +1,28 @@
+Added Component: Designator=J?(TopBoardConnector)
+Added Pin To Net: NetName=0-5V Pin=J?-0-ADC_SS
+Added Pin To Net: NetName=1-5V Pin=J?-1-ADC_MISO
+Added Pin To Net: NetName=2-5V Pin=J?-2
+Added Pin To Net: NetName=3-5V Pin=J?-3
+Added Pin To Net: NetName=4-5V Pin=J?-4
+Added Pin To Net: NetName=5-5V Pin=J?-5
+Added Pin To Net: NetName=+5 Pin=J?-5V
+Added Pin To Net: NetName=10-5V Pin=J?-10
+Added Pin To Net: NetName=11-5V Pin=J?-11
+Added Pin To Net: NetName=12-5V Pin=J?-12
+Added Pin To Net: NetName=13-5V Pin=J?-13
+Added Pin To Net: NetName=14-5V Pin=J?-14
+Added Pin To Net: NetName=15-5V Pin=J?-15
+Added Pin To Net: NetName=16-5V Pin=J?-16
+Added Pin To Net: NetName=17-5V Pin=J?-17
+Added Pin To Net: NetName=18-5V Pin=J?-18
+Added Pin To Net: NetName=19-5V Pin=J?-19
+Added Pin To Net: NetName=24-5V Pin=J?-24
+Added Pin To Net: NetName=25-5V Pin=J?-25
+Added Pin To Net: NetName=26-5V Pin=J?-26-ADC_MOSI
+Added Pin To Net: NetName=27-5V Pin=J?-27-ADC_CLK
+Added Pin To Net: NetName=33-5V Pin=J?-33
+Added Pin To Net: NetName=36-5V Pin=J?-36
+Added Pin To Net: NetName=37-5V Pin=J?-37
+Added Pin To Net: NetName=GND Pin=J?-GND
+Added Member To Class: ClassName=TopBoard Member=Component J? TopBoardConnector
+Added Room: Name=TopBoard

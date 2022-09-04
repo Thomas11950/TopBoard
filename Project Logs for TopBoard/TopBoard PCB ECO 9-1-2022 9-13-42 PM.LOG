@@ -1,0 +1,25 @@
+Added Component: Designator=J1(TopBoardConnector)
+Added Pin To Net: NetName=2-5V Pin=J1-2
+Added Pin To Net: NetName=3-5V Pin=J1-3
+Added Pin To Net: NetName=4-5V Pin=J1-4
+Added Pin To Net: NetName=5-5V Pin=J1-5
+Added Pin To Net: NetName=+5 Pin=J1-5V
+Added Pin To Net: NetName=10-5V Pin=J1-10
+Added Pin To Net: NetName=11-5V Pin=J1-11
+Added Pin To Net: NetName=12-5V Pin=J1-12
+Added Pin To Net: NetName=13-5V Pin=J1-13
+Added Pin To Net: NetName=14-5V Pin=J1-14
+Added Pin To Net: NetName=15-5V Pin=J1-15
+Added Pin To Net: NetName=16-5V Pin=J1-16
+Added Pin To Net: NetName=17-5V Pin=J1-17
+Added Pin To Net: NetName=18-5V Pin=J1-18
+Added Pin To Net: NetName=19-5V Pin=J1-19
+Added Pin To Net: NetName=24-5V Pin=J1-24
+Added Pin To Net: NetName=25-5V Pin=J1-25
+Added Pin To Net: NetName=27-5V Pin=J1-27-ADC_CLK
+Added Pin To Net: NetName=33-5V Pin=J1-33
+Added Pin To Net: NetName=36-5V Pin=J1-36
+Added Pin To Net: NetName=37-5V Pin=J1-37
+Added Pin To Net: NetName=GND Pin=J1-GND
+Added Member To Class: ClassName=TopBoard Member=Component J1 TopBoardConnector
+Added Room: Name=TopBoard
