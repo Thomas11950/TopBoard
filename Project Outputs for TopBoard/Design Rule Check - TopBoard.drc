@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\engineering\racing\TopBoard\TopBoard\TopBoard.PcbDoc
-Date     : 9/3/2022
-Time     : 12:17:38 PM
+PCB File : C:\Users\harsh\Documents\GitHub\TopBoard\TopBoard.PcbDoc
+Date     : 9/18/2022
+Time     : 11:35:54 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -13,8 +13,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Track (4076.673mil,3190.689mil)(4078.347mil,3189.016mil) on Top Layer And Pad U5-7(4077.559mil,2725mil) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -41,21 +40,10 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Co
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=5.906mil) (All)
-   Violation between Minimum Annular Ring: (3.936mil < 5.906mil) Pad J1-11(2865mil,1775mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 5.906mil) Pad J1-12(2965mil,1775mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 5.906mil) Pad J1-15(2465mil,3975mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 5.906mil) Pad J1-16(2365mil,3975mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 5.906mil) Pad J1-19(2065mil,1775mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 5.906mil) Pad J1-1-ADC_MISO(2265mil,3975mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 5.906mil) Pad J1-2(2165mil,1775mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 5.906mil) Pad J1-3(2265mil,1775mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 5.906mil) Pad J1-4(2365mil,1775mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-Rule Violations :9
+Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=9.055mil) (IsVia)
-   Violation between Minimum Annular Ring: (7.5mil < 9.055mil) Via (2250mil,2170mil) from Top Layer to Bottom Layer (Annular Ring=7.5mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (7.5mil < 9.055mil) Via (2810mil,2165mil) from Top Layer to Bottom Layer (Annular Ring=7.5mil) On (Top Layer)
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
 Rule Violations :0
@@ -76,28 +64,13 @@ Processing Rule : Hole To Hole Clearance (Gap=19.685mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=7.874mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (5.565mil < 7.874mil) Between Pad C1-2(2129.016mil,2271.653mil) on Top Layer And Via (2188.516mil,2302.918mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.565mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.339mil < 7.874mil) Between Pad C2-1(2127.913mil,2078.347mil) on Top Layer And Via (2188.189mil,2081.654mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.339mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.476mil < 7.874mil) Between Pad C3-2(2704.016mil,2266.653mil) on Top Layer And Via (2763.382mil,2299.286mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [5.476mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.339mil < 7.874mil) Between Pad C4-1(2702.913mil,2068.347mil) on Top Layer And Via (2763.189mil,2073.382mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.339mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (3.193mil < 7.874mil) Between Pad U2-11(1807.441mil,2077.559mil) on Top Layer And Via (1807.441mil,2006.65mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.193mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.063mil < 7.874mil) Between Pad U3-6(2285mil,2264.882mil) on Top Layer And Via (2245.823mil,2321.552mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.063mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.063mil < 7.874mil) Between Pad U3-7(2235mil,2264.882mil) on Top Layer And Via (2188.516mil,2302.918mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.063mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.063mil < 7.874mil) Between Pad U3-8(2235mil,2070mil) on Top Layer And Via (2188.189mil,2081.654mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.063mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.063mil < 7.874mil) Between Pad U4-7(2810mil,2262.441mil) on Top Layer And Via (2763.382mil,2299.286mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.063mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.063mil < 7.874mil) Between Pad U4-8(2810mil,2067.559mil) on Top Layer And Via (2763.189mil,2073.382mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.063mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.063mil < 7.874mil) Between Pad U4-9(2860mil,2067.559mil) on Top Layer And Via (2825.522mil,2005.412mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.063mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.323mil < 7.874mil) Between Via (2188.516mil,2302.918mil) from Top Layer to Bottom Layer And Via (2245.823mil,2321.552mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.323mil] / [Bottom Solder] Mask Sliver [6.323mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (6.323mil < 7.874mil) Between Via (2763.382mil,2299.286mil) from Top Layer to Bottom Layer And Via (2818.451mil,2323.755mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [6.323mil] / [Bottom Solder] Mask Sliver [6.323mil]
-Rule Violations :13
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (7.816mil < 10mil) Between Text "C11" (1365.021mil,3480.01mil) on Top Overlay And Track (1512.795mil,3452.756mil)(1512.795mil,3547.244mil) on Top Overlay Silk Text to Silk Clearance [7.816mil]
-   Violation between Silk To Silk Clearance Constraint: (2.513mil < 10mil) Between Text "U1" (1345.013mil,3145.01mil) on Top Overlay And Track (1435mil,3038.661mil)(1435mil,3230mil) on Top Overlay Silk Text to Silk Clearance [2.513mil]
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -109,6 +82,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 27
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
